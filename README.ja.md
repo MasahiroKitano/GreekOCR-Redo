@@ -1,4 +1,4 @@
-# ギリシャ語OCR（greek-ocr-redo）
+# ギリシャ語OCR（GreekOCR-redo）
 
 [English](README.md)
 
